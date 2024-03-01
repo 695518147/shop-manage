@@ -18,7 +18,7 @@ spring:
   data:
     mongodb:
       host: localhost
-      port: 27017
+      port: 27018
       database: mall-port
   redis:
     host: localhost # Redis服务器地址
